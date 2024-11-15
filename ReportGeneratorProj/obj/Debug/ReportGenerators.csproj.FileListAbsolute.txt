@@ -1,0 +1,82 @@
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\ReportGenerators.exe.config
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\ReportGenerators.exe
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\ReportGenerators.pdb
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\EO.Base.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\EO.WebBrowser.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\EO.WebBrowser.Wpf.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\EO.WebEngine.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\EPPlus.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.Auth.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.Core.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\HtmlAgilityPack.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\OpenSSL.PrivateKeyDecoder.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\OpenSSL.X509Certificate2.Provider.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\RestSharp.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\WebDriver.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\WebDriver.Support.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\EO.Base.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\EO.WebBrowser.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\EO.WebBrowser.Wpf.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\EO.WebEngine.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\EPPlus.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.pdb
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.Auth.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.Core.pdb
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.Core.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\HtmlAgilityPack.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\OpenSSL.PrivateKeyDecoder.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\OpenSSL.X509Certificate2.Provider.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\RestSharp.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\WebDriver.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\WebDriver.Support.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\obj\Debug\ReportGenerators.csprojResolveAssemblyReference.cache
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\obj\Debug\ReportGenerators.csproj.CoreCompileInputs.cache
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\obj\Debug\ReportGenerators.exe
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\obj\Debug\ReportGenerators.pdb
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\System.Management.Automation.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\tidy.x64.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\tidy.x86.dll
+C:\Users\jwilli48\source\repos\CSharpGenerateReports\ReportGeneratorProj\bin\Debug\TidyHTML5Managed.dll
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\ReportGenerators.exe.config
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\ReportGenerators.exe
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\ReportGenerators.pdb
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\EO.Base.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\EO.WebBrowser.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\EO.WebBrowser.Wpf.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\EO.WebEngine.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\EPPlus.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\Google.Apis.pdb
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\Google.Apis.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\Google.Apis.Auth.pdb
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\Google.Apis.Auth.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\Google.Apis.Core.pdb
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\Google.Apis.Core.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\Google.Apis.YouTube.v3.pdb
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\Google.Apis.YouTube.v3.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\HtmlAgilityPack.pdb
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\HtmlAgilityPack.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\ICSharpCode.AvalonEdit.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\Newtonsoft.Json.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\OpenSSL.PrivateKeyDecoder.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\OpenSSL.X509Certificate2.Provider.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\RestSharp.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\WebDriver.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\bin\Debug\WebDriver.Support.xml
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\obj\Debug\ReportGenerators.csprojResolveAssemblyReference.cache
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\obj\Debug\ReportGenerators.csproj.ReportGenerators.exe.config
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\obj\Debug\ReportGenerators.csproj.CoreCompileInputs.cache
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\obj\Debug\ReportGenerators.exe
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\A11yPanelCode\ReportGeneratorProj\obj\Debug\ReportGenerators.pdb

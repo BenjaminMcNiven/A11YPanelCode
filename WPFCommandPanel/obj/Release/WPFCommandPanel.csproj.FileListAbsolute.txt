@@ -1,0 +1,34 @@
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\AA team folders\Josh\A11yPanel\WPFCommandPanel.exe
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\WPFCommandPanel.csprojResolveAssemblyReference.cache
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\CommandPanel.g.cs
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\MainWindow.g.cs
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\App.g.cs
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\WPFCommandPanel_MarkupCompile.cache
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\WPFCommandPanel_MarkupCompile.lref
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\App.baml
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\CommandPanel.baml
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\MainWindow.baml
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\WPFCommandPanel.g.resources
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\WPFCommandPanel.Properties.Resources.resources
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\WPFCommandPanel.csproj.GenerateResource.Cache
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\WPFCommandPanel.csproj.CoreCompileInputs.cache
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\WPFCommandPanel.exe
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\WPFCommandPanel.pdb
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\AA team folders\Josh\A11yPanel2\WPFCommandPanel.exe.config
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\AA team folders\Josh\A11yPanel2\WPFCommandPanel.exe
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\AA team folders\Josh\A11yPanel2\WPFCommandPanel.pdb
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\AA team folders\Josh\A11yPanel2\tidy.x64.dll
+M:\DESIGNER\Content EditorsELTA\Accessibility Assistants\AA team folders\Josh\A11yPanel2\tidy.x86.dll
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\A11yRepair.g.cs
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\A11yViewer.g.cs
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\WPFCommandPanel_Content.g.cs
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\A11yRepair.baml
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\A11yViewer.baml
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\Themes\Generic.baml
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\OptionsPage.g.cs
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\OptionsPage.baml
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\DraggablePopup.g.cs
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\DraggablePopup.baml
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\LoadingSpinner.g.cs
+C:\Users\jwilli48\source\repos\WPFCommandPanel\WPFCommandPanel\obj\Release\LoadingSpinner.baml
